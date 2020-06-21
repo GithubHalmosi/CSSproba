@@ -1,0 +1,12 @@
+#colorDiv
+{
+display: inline-block;
+width: 100px;
+height: 100px;
+background-color:rgba(0, 0, 230, 1) ;
+}
+
+html{
+    background-color: rgba(200, 200, 200, 1);
+    background-image: url("/img/programmer.jpg");
+}
